@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Instagram</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <div class="instagram-wrapper">
+            <div class="instagram-phone">
+                <img src="./Imginsta/XAC_1x1Texting_2UP.png" alt="Celular">
+            </div>
+            <div class="instagram-continue">
+                <div class="group">
+                    <img src="./Imginsta/instalogo.png" alt="instagram logo" class="logo">
+                    <div class="profile_photo">
+                        <img src="./Imginsta/Screenshot_1.png" alt="imagem de perfil">
+                    </div>
+                    <a href="#" class="instalogin">Continue como Juliandre</a>
+                    <a href="#" class="instalogoff">Remover conta</a>
+                </div>
+                <div class="group">
+                    <p class="not-account">Não é Juliandre</p>
+                    <p class="not-account">
+                        <a href="#"><span class="link-blue">Alternar contas</span></a>
+                        <span>ou</span>
+                        <a href="#"><span class="link-blue">Inscreva-se</span></a>
+                    </p>
+                </div>
+                <div class="plataforms">
+                    <p class="get-app">Baixe o app</p>
+                </div>
+                <div class="download">
+                    <a href="#" class="app-download"></a>
+                    <a href="#" class="app-download"></a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
